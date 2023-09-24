@@ -13,8 +13,8 @@ The "New York City Bike Data Analysis" project focuses on exploring and analyzin
 - Monthly and seasonal trends in bike usage.
 
 ### Project Structure:
-- `nyc_bike_data.xlsx`: The Excel workbook containing the dataset and analysis.
-- `nyc_bike_data_analysis_report.pdf`: A report summarizing the key findings, insights, and visualizations.
+- `NY_Citi Bikes_Analysis_PD.xlsx`: The Excel workbook containing the dataset and analysis.
+- `NY_Citi Bike Final Presentation_PD.pptx`: A report summarizing the key findings, insights, and visualizations.
 
 
 ## Project Goals:
@@ -24,7 +24,7 @@ The "New York City Bike Data Analysis" project focuses on exploring and analyzin
 
 ------------------------------------------------------------------------------------------------------------
 
-Feel free to explore the `nyc_bike_data.xlsx` workbook for detailed analysis and visualizations. The `nyc_bike_data_analysis_report.pdf` offers a comprehensive overview of the project's findings.
+Feel free to explore the `NY_Citi Bikes_Analysis_PD.xlsx` workbook for detailed analysis and visualizations. The `NY_Citi Bike Final Presentation_PD.pptx` offers a comprehensive overview of the project's findings.
 
 If you have any questions or feedback or wish to collaborate on data analysis projects, please don't hesitate to reach out.
 
